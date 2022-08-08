@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nSource A was Primer.data. It was flawless. (Kane 2020)\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill. (Jones\n2018)\n\n\n\nJones, Nora. 2018. “Distill for r Markdown.” Journal of\nData Science Software. https://doi.org/10.23915/distill.00010.\n\n\nKane, David. 2020. Primer.data.\n\n\n\n\n",
-      "last_modified": "2022-08-07T22:18:10-04:00"
+      "last_modified": "2022-08-07T22:20:22-04:00"
     },
     {
       "path": "source_B.html",
