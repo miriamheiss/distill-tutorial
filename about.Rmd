@@ -8,3 +8,21 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+
+My name is **Miriam Heiss** and I play the Organ. I am Homeschooled, and enjoy making soap!
+
+## About the Project
+
+My project, *Taylor Swift and Bach* will be comparing Taylor Swift and Bach on things like song length, tempo, energy, and key. I got the data from **Spotify**, but 
+this is not the website it will be on. The actual project will be [**here**](https://www.miriamheiss.com/).
+
+### Goals
+
+* My project should show that classical music is not boring, and is just as good as popular music. 
+  + This will be difficult, as classical music is slower and less energetic (on average) than popular music.
+* I want my project to be informative about both popular and classical music.
+
+“This is data science”  ~ Preceptor
+
+[**Kane’s Free High School Data Science Bootcamp**](https://bootcamp.davidkane.info)

@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-08-06T11:47:45-04:00"
+      "contents": "\nAbout Me\nMy name is Miriam Heiss and I play the Organ. I am\nHomeschooled, and enjoy making soap!\nAbout the Project\nMy project, Taylor Swift and Bach will be comparing Taylor\nSwift and Bach on things like song length, tempo, energy, and key. I got\nthe data from Spotify, but this is not the website it\nwill be on. The actual project will be here.\nGoals\nMy project should show that classical music is not boring, and is\njust as good as popular music.\nThis will be difficult, as classical music is slower and less\nenergetic (on average) than popular music.\n\nI want my project to be informative about both popular and classical\nmusic.\n“This is data science” ~ Preceptor\nKane’s Free High\nSchool Data Science Bootcamp\n\n\n\n",
+      "last_modified": "2022-08-07T20:32:19-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-06T12:37:45-04:00"
+      "last_modified": "2022-08-07T20:32:23-04:00"
     }
   ],
   "collections": []
